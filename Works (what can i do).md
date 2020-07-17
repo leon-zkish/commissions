@@ -16,8 +16,8 @@ Extras:
 
 What can i do?
 
->Yes:
->
+Yes:
+
 >NSFW
 >
 >GORE (With limits)
@@ -29,6 +29,6 @@ What can i do?
 >CREATURES
  
 
->No:
->
+No:
+
 > PLACES (I'm bad)
